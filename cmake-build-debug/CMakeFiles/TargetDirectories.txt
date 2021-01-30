@@ -1,0 +1,4 @@
+/Users/cz/Documents/Visual Studio Code/TxtReader/cmake-build-debug/CMakeFiles/file.dir
+/Users/cz/Documents/Visual Studio Code/TxtReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cz/Documents/Visual Studio Code/TxtReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cz/Documents/Visual Studio Code/TxtReader/cmake-build-debug/CMakeFiles/file-lib.dir
